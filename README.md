@@ -30,4 +30,4 @@ Cấu hình proxy của bạn theo định dạng *BẤT KỲ* (socks, http/s, .
 
 ![Proxy Cấu hình](https://github.com/MsLolita/VeloData/assets/58307006/a2c95484-52b6-497a-b89e-73b89d953d8c)
 
-source được copy và chỉnh sửa từ nguồn: ![Nguồn](https://github.com/MsLolita/Nodepay_plus)
+### Source được copyleft và chỉnh sửa từ nguồn: [Nguồn](https://github.com/MsLolita/Nodepay_plus)
