@@ -1,51 +1,33 @@
 # Nodepay Auto Reger&Farm 🔹
 
+Khám phá những động thái mới nhất của `<crypto/>` trong Kênh Telegram của tôi:
 
-Discover the latest `<crypto/>` moves in my Telegram Channel:
+[Proxy và máy chủ] rẻ nhất (https://teletype.in/@web3enjoyer/4a2G9NuHssy) phù hợp với bot.
 
-[![My Channel 🥰](https://img.shields.io/badge/Web3_Enjoyer_|_Subscribe_🥰-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/web3_enjoyer_club) 
+### Bot dùng để làm gì?
+- Tạo tài khoản
+- Farm điểm
 
-Cheapest [proxies and servers](https://teletype.in/@web3enjoyer/4a2G9NuHssy) which fits for bot.
+> Bạn có thể đặt nhiều proxy tùy thích
 
-![image](https://img4.teletype.in/files/3b/88/3b886c4d-5b54-4463-bddd-3ce86342d666.png)
-### Also can be useful: [Grass Farmer](https://github.com/MsLolita/grass)
+### Tùy chọn 📧
 
+ĐIỂM FARM:
+- Cung cấp email, mật khẩu và proxy để đăng ký tài khoản như bên dưới!
 
-### What is bot for?
-   - Create Accounts
-   - Farm Points
-   - Check Points
+### Cấu hình 📧
 
-> You can put as many proxies as u can
+1. Thiết lập tài khoản 🔒
 
+Nhập `accounts.txt` tài khoản theo định dạng email:password (cool_aster@gmail.com:My_password123!)
+Đối với mật khẩu: Chữ cái in hoa, chữ cái thường, số, ký tự đặc biệt và ít nhất 8 ký tự
 
-## Quick Start 📚
-   1. To install libraries on Windows click on `INSTALL.bat` (or in console: `pip install -r requirements.txt`).
-   2. To start bot use `START.bat` (or in console: `python main.py`).
+![image](https://img3.teletype.in/files/63/b4/63b417ed-d9fb-4aa5-b8a4-1b96e46a57f7.png)
 
-### Options 📧
+2. Thiết lập Proxy 🔒
 
-1. CREATE ACCOUNTS:
- - Throw the api key. Since there is a captcha there, you need a service for solving captchas - [AntiCaptcha](http://getcaptchasolution.com/t8yfysqmh3) or [Twocaptcha](https://2captcha.com/?from=12939391).
- - Provide emails and passwords and proxies to register accounts as below!
+Cấu hình proxy của bạn theo định dạng *BẤT KỲ* (socks, http/s, ...) nào trong `data/proxies.txt` 🌐
 
-  ![image](https://img3.teletype.in/files/63/b4/63b417ed-d9fb-4aa5-b8a4-1b96e46a57f7.png)
+![Proxy Cấu hình](https://github.com/MsLolita/VeloData/assets/58307006/a2c95484-52b6-497a-b89e-73b89d953d8c)
 
-2. FARM POINTS:
- - Provide emails and passwords and proxies to register accounts as shown below!
-
-
-### Configuration 📧
-
-1. Accounts Setup 🔒
-
-   Put in `accounts.txt` accounts in format email:password (cool_aster@gmail.com:My_password123!) 
-   For password: Big letter, small letter, number, special character and at least 8 symbols
-   
-   ![image](https://img3.teletype.in/files/63/b4/63b417ed-d9fb-4aa5-b8a4-1b96e46a57f7.png)
-
-2. Proxy Setup 🔒
-
-   Configure your proxies with the *ANY* (socks, http/s, ...) format in `data/proxies.txt` 🌐
-
-   ![Proxy Configuration](https://github.com/MsLolita/VeloData/assets/58307006/a2c95484-52b6-497a-b89e-73b89d953d8c)
+source được copy và chỉnh sửa từ nguồn: ![Nguồn](https://github.com/MsLolita/Nodepay_plus)
